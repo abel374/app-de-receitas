@@ -42,7 +42,7 @@ export default function Home() {
         {loading ? (
           <>
             {" "}
-            <h1 className="text-center text-3xl"> Carregando...</h1>{" "}
+            <h1 className="text-center text-3xl"> Carregando....</h1>{" "}
           </>
         ) : (
           <>
